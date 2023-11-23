@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:layout_marginStart="0dp"
     android:layout_marginEnd="0dp"
-    android:background="#ECDA92"
+    android:background="#f3eae8"
     android:gravity="center_vertical"
     android:orientation="vertical"
     tools:context=".MainLauncherSplashLogo">
